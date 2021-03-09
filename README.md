@@ -3,13 +3,14 @@
 - 🔭 I’m currently working on @[DAConsortium][company] as a SRE engineer
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💬 Ask me about
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terraform" width="26px" src="https://symbols.getvecta.com/stencil_97/64_terraform-icon.d8dd637866.svg" />
-<img align="left" alt="Google Cloud Platform" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
-<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" />
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />
+<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
 
 <br />
 
