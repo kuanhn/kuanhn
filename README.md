@@ -25,7 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 May 2022 - To: 10 May 2022
+
+Text    9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   69.67 %
+Other   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.33 %
 ```
 
 <!--END_SECTION:waka-->
