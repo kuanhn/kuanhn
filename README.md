@@ -25,10 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Ruby        1 hr 13 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.03 %
-Other       10 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.52 %
+Terraform   1 hr 25 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   70.04 %
+Other       8 mins          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.30 %
 ```
 
 <!--END_SECTION:waka-->
