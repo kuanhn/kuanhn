@@ -25,7 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 October 2022 - To: 18 October 2022
+
+YAML    1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.32 %
+Other   0 secs          ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.27 %
 ```
 
 <!--END_SECTION:waka-->
