@@ -18,14 +18,8 @@
 
 [<img align="left" alt="kuanhn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook][<img align="left" alt="kuanhn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img align="left" alt="kuanhn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
-![github stats]
-
-
 [facebook]: https://www.facebook.com/iamkots/
 [twitter]: https://twitter.com/quannhathoang
 [linkedin]: https://www.linkedin.com/in/quanhoangnhat/
-[github stats]: https://github-readme-stats.vercel.app/api?username=kuanhn&count_private=true&show_icons=true&hide=stars
 [company]: https://github.com/DAConsortium
 
